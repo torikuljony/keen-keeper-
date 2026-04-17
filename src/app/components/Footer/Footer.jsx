@@ -15,7 +15,7 @@ const Footer = () => {
                         height={61}
                         alt="Picture of the author"
                     />
-                    <p className='text-white text-center'>Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.</p>
+                    {/* <p className='text-white text-center'>Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.</p> */}
                     <br />
                     <div className='flex flex-col justify-center items-center'>
                         <h1 className='font-bold text-xl text-white mt-6 text-center'>Social Links</h1>
@@ -31,6 +31,7 @@ const Footer = () => {
                 </div>
                 <div className='container mx-auto mt-10 mb-8 flex flex-col md:flex-row space-y-4 md:space-y-0 justify-between items-center'>
                     <p className='text-sm text-[#fafafa]'>© 2026 KeenKeeper.  All rights reserved.</p>
+
                     <ul className='flex gap-4 text-[#fafafa]'>
                         <li>Privacy Policy</li>
                         <br />
