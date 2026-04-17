@@ -15,7 +15,7 @@ const Footer = () => {
                         height={61}
                         alt="Picture of the author"
                     />
-                    {/* <p className='text-white text-center'>Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.</p> */}
+                    <p className='text-white text-center'>Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.</p>
                     <br />
                     <div className='flex flex-col justify-center items-center'>
                         <h1 className='font-bold text-xl text-white mt-6 text-center'>Social Links</h1>

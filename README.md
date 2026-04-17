@@ -1,0 +1,11 @@
+KeenKeeper is a modern Friendship Management Web Application designed to help users stay connected with their friends and maintain healthy communication habits. The app provides a clean and interactive interface where users can view a list of friends, and each friend is displayed as a card. When a user clicks on any friend card, they are redirected to a dedicated Details Page where complete profile information is shown.
+
+In the Friend Details Page, users can see important information such as profile picture, bio, email, tags, contact status, and relationship goals. Along with this information, there are three quick action buttons: 📞 Call, 💬 Text, and 🎥 Video. These buttons allow users to interact with their friends easily. Whenever any of these actions is performed, the system automatically records the interaction and adds it to the 📜 Timeline Page.
+
+The Timeline Page displays all user interactions in chronological order. Each entry includes the interaction type (📞 Call, 💬 Text, or 🎥 Video), the friend’s name, and the date of the activity. This helps users keep track of their communication history in a simple and organized way. Additionally, users can filter the timeline based on interaction type, allowing them to view only calls, only texts, or only video interactions.
+
+To make the application more insightful, KeenKeeper also includes an 📊 Analytics Dashboard. This page visually represents user interaction data using a Pie Chart built with Recharts. The chart shows the distribution of calls, texts, and video interactions, helping users understand their communication patterns more clearly.
+
+The application also provides real-time feedback using 🔔 toast notifications whenever an interaction occurs, ensuring a smooth and responsive user experience. KeenKeeper is fully responsive 📱 and works seamlessly across mobile, tablet, and desktop devices 💻.
+
+KeenKeeper is built using modern technologies including ⚛️ Next.js, 🎨 Tailwind CSS, 💠 DaisyUI, 🎯 React Icons, and 📊 Recharts. The main goal of this project is to help users manage their friendships digitally by tracking communication activities, improving consistency, and visualizing interaction history in a clean and meaningful way.
