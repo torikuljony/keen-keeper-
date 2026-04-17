@@ -32,7 +32,10 @@ const Navbar = () => {
                             {li}
                         </ul>
                     </div>
-                    <Link href={"/"} className="text-2xl text-[#1f2937] font-bold">KeenKeeper</Link>
+                    <Link href={"/"} className="text-2xl font-bold">
+                        <span className="text-[#1f2937]">Keen</span>
+                        <span className="text-[#244d3f]">Keeper</span>
+                   </Link>
                 </div>
                 <div className="hidden lg:flex">
                     <ul className="menu menu-horizontal px-1 space-x-4">
