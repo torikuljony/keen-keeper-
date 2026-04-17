@@ -16,20 +16,26 @@ const Footer = () => {
                         alt="Picture of the author"
                     />
                     <p className='text-white text-center'>Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.</p>
+                    <br />
                     <div className='flex flex-col justify-center items-center'>
                         <h1 className='font-bold text-xl text-white mt-6 text-center'>Social Links</h1>
-                        <div className='mt-4 grid grid-cols-3 space-x-4'>
+                        <br />
+                        <div className='mt-3 grid grid-cols-3 space-x-4 '>
                             <div className='flex justify-center items-center w-10 h-10 rounded-full bg-white'><FaInstagramSquare /></div>
+                            
                             <div className='flex justify-center items-center w-10 h-10 rounded-full bg-white'><FaFacebookSquare /></div>
+                            
                             <div className='flex justify-center items-center w-10 h-10 rounded-full bg-white'><FaXTwitter /></div>
                         </div>
                     </div>
                 </div>
                 <div className='container mx-auto mt-10 mb-8 flex flex-col md:flex-row space-y-4 md:space-y-0 justify-between items-center'>
-                    <p className='text-sm text-[#fafafa]'>© 2026 KeenKeeper. All rights reserved.</p>
+                    <p className='text-sm text-[#fafafa]'>© 2026 KeenKeeper.  All rights reserved.</p>
                     <ul className='flex gap-4 text-[#fafafa]'>
                         <li>Privacy Policy</li>
+                        <br />
                         <li>Terms of Service</li>
+                        <br />
                         <li>Cookies</li>
                     </ul>
                 </div>

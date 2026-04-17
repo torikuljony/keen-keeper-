@@ -156,7 +156,7 @@ const DetailsPage = () => {
                         </div>
                     </div>
 
-                    {/* div7 */}
+                    {/* div8 */}
                     <div className="col-start-5 row-start-1">
                         <div className='bg-white p-8 flex flex-col justify-center items-center rounded-lg shadow-lg'>
                             <h1 className='font-semibold text-xl xl:text-2xl mb-2'>{friend.next_due_date}</h1>
