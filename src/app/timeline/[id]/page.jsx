@@ -86,7 +86,7 @@ const DetailsPage = () => {
                         </div>
                     </div>
 
-                    {/* div2 */}
+                    
                     <div className="col-start-3 col-span-3 row-start-2 rounded-lg bg-white shadow-lg">
                         <div className="p-6">
                             <div className="flex justify-between items-center">
@@ -97,7 +97,7 @@ const DetailsPage = () => {
                         </div>
                     </div>
 
-                    {/* div3 */}
+                  
                     <div className="col-span-2 space-y-3 col-start-1 row-start- p-2">
                         <div className="bg-white p-4 shadow-lg rounded-lg">
                             <div className="flex justify-center items-center gap-2">
@@ -119,7 +119,7 @@ const DetailsPage = () => {
                         </div>
                     </div>
 
-                    {/* div4 */}
+                  
                     <div className="col-span-3 col-start-3 row-start-3 bg-white shadow-lg rounded-lg p-6">
                         <div>
                             <h3 className="text-[#244d3f] text-xl font-semibold mb-4">Quick Check-In</h3>
@@ -140,7 +140,7 @@ const DetailsPage = () => {
                         </div>
                     </div>
 
-                    {/* div5 */}
+                
                     <div className="col-start-3 row-start-1">
                         <div className='bg-white p-8 flex flex-col justify-center items-center rounded-lg shadow-lg'>
                             <h1 className='font-semibold text-xl xl:text-2xl'>{friend.days_since_contact}</h1>
@@ -148,7 +148,7 @@ const DetailsPage = () => {
                         </div>
                     </div>
 
-                    {/* div6 */}
+                
                     <div className="col-start-4 row-start-1">
                         <div className='bg-white p-8 flex flex-col justify-center items-center rounded-lg shadow-lg'>
                             <h1 className='font-semibold text-xl xl:text-2xl mb-2'>{friend.goal}</h1>
@@ -156,7 +156,7 @@ const DetailsPage = () => {
                         </div>
                     </div>
 
-                    {/* div8 */}
+                  
                     <div className="col-start-5 row-start-1">
                         <div className='bg-white p-8 flex flex-col justify-center items-center rounded-lg shadow-lg'>
                             <h1 className='font-semibold text-xl xl:text-2xl mb-2'>{friend.next_due_date}</h1>
